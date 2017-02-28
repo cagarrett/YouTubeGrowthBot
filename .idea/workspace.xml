@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb8b5f03-b79f-4f2a-b44e-9c2fd5157a35" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Cody.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YouTubeGrowthBot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/approved_posters.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/total_comments.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unique_posters.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/YouTubeGrowthBot.iml" afterPath="$PROJECT_DIR$/.idea/YouTubeGrowthBot.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json_dump.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/approved_posters.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/total_comments.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unique_posters.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YouTubeGrowthBot.py" afterPath="$PROJECT_DIR$/YouTubeGrowthBot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.py" afterPath="$PROJECT_DIR$/config.py" />
     </list>
     <ignored path="YouTubeGrowthBot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,21 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="45">
+              <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YouTubeGrowthBot.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="YouTubeGrowthBot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/YouTubeGrowthBot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="295">
+              <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -52,28 +50,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="approved_posters.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/approved_posters.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="total_comments.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/total_comments.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unique_posters.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unique_posters.txt">
+      <file leaf-file-name="json_dump.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/json_dump.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -97,9 +75,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/approved_posters.txt" />
-        <option value="$PROJECT_DIR$/total_comments.txt" />
         <option value="$PROJECT_DIR$/unique_posters.txt" />
+        <option value="$PROJECT_DIR$/total_comments.txt" />
+        <option value="$PROJECT_DIR$/approved_posters.txt" />
+        <option value="$PROJECT_DIR$/total_comments.json" />
+        <option value="$PROJECT_DIR$/approved_posters.json" />
+        <option value="$PROJECT_DIR$/json_dump.json" />
         <option value="$PROJECT_DIR$/YouTubeGrowthBot.py" />
         <option value="$PROJECT_DIR$/config.py" />
       </list>
@@ -108,7 +89,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1270" />
-    <option name="height" value="713" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -322,19 +303,27 @@
       <option name="presentableId" value="Default" />
       <updated>1487641685786</updated>
     </task>
+    <task id="LOCAL-00001" summary="Reddit bot that gathers all comments from a subreddit, notes which users have commented 3+ times and removes the posts of anyone who has not commented 3+ times. More updates/features to come.">
+      <created>1487867702140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487867702140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1270" height="713" extended-state="0" />
+    <frame x="0" y="23" width="1270" height="709" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25380304" sideWeight="0.49436393" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5031496" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850242" sideWeight="0.4968504" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3306321" sideWeight="0.4968504" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25380304" sideWeight="0.5056361" order="2" side_tool="true" content_ui="tabs" />
@@ -357,6 +346,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reddit bot that gathers all comments from a subreddit, notes which users have commented 3+ times and removes the posts of anyone who has not commented 3+ times. More updates/features to come." />
+    <option name="LAST_COMMIT_MESSAGE" value="Reddit bot that gathers all comments from a subreddit, notes which users have commented 3+ times and removes the posts of anyone who has not commented 3+ times. More updates/features to come." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -405,6 +398,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/total_comments.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/approved_posters.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/total_comments.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -413,21 +422,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YouTubeGrowthBot.py">
+    <entry file="file://$PROJECT_DIR$/json_dump.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="45">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YouTubeGrowthBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
